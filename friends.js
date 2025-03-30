@@ -14,7 +14,7 @@ const friends = [
   },
   {
     id: '2',
-    name: 'DadaKa Maalhai',
+    name: 'Atul Pandey',
     avatar: './user.svg',
     status: 'studying',
     major: 'Data Science',
